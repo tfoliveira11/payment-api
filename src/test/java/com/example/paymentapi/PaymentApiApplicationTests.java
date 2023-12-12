@@ -1,10 +1,10 @@
-package com.example.java21features;
+package com.example.paymentapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Java21featuresApplicationTests {
+class PaymentApiApplicationTests {
 
 	@Test
 	void contextLoads() {
